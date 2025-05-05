@@ -1,1 +1,1 @@
-# PracAssignments
+This Repository contains Assignmnets 
